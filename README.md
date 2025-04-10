@@ -5,7 +5,17 @@ My journey is one of constant growth, where perseverance and curiosity drive me 
 - Adaptability & Multitasking: 15+ years in commerce, including roles as a Chief Accountant, taught me to see the big picture, manage data, and switch seamlessly between tasks. Now, I apply these skills to IT, where structure and analytical thinking are key.  
 - Business Logic + IT: My insider understanding of corporate operations fuels my drive to build tech solutions for real-world challenges — automation, analytics, or something entirely groundbreaking.  
 - Backend Development: Specializing in C#/.NET, Python/Django, C++, SQL databases, UML, DevOps, API. Focused on writing maintainable code, optimizing performance, and designing scalable architectures.   
-- Learning in Depth: Diving deep into backend fundamentals — algorithms, system design, DevOps (Docker, CI/CD), and cloud platforms (AWS/GCP/Azure) to create solutions that last.  
+- Learning in Depth: Diving deep into backend fundamentals — algorithms, system design, DevOps (Docker, CI/CD), and cloud platforms (AWS/GCP/Azure) to create solutions that last.
+- 
+🎓 Education  
+- **Second Degree in Software Engineering**  
+  - **University**: Belarusian State University of Informatics and Radioelectronics (BSUIR)  
+  - **Dates**: 2024–2026  
+  - **Focus**: Algorithms, OOP, API, Cloud Architecture, DevOps  
+  - **Projects**:   
+- **First Degree in Economics & Auditing**  
+  - **University**: Belarusian State Economic University (BSEU) 
+  - **Dates**: 2011–2015    
 
 🌟 Personal Qualities  
 - Dance & Music — My Energy Boosters 🕺🏻🎵: I dance purely for joy — it keeps me creative and in tune with life’s rhythm. Music is my passion too, from jazz improvisations to electronic beats. It’s my go-to source of inspiration and positivity, even during deadlines!  
