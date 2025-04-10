@@ -12,7 +12,8 @@ My journey is one of constant growth, where perseverance and curiosity drive me 
   - **University**: Belarusian State University of Informatics and Radioelectronics (BSUIR)  
   - **Dates**: 2024–2026  
   - **Focus**: Algorithms, OOP, API, Cloud Architecture, DevOps  
-  - **Projects**:   
+  - **Projects**: https://github.com/EvgeniiVasileuski/my-studies
+  - **Certificates**:   
 - **First Degree in Economics & Auditing**  
   - **University**: Belarusian State Economic University (BSEU) 
   - **Dates**: 2011–2015    
