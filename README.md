@@ -22,7 +22,7 @@ The tech world is a limitless challenge and a chance to create impactful solutio
 - Projects where I can apply analytical thinking and growing technical skills,  
 - A team that values versatility and agrees that coding to a great track hits different! 🎧💻  
 
-📫 Contact Me:  vasil93@internet.ru 
+📫 Contact Me:  vasil93@internet.ru | +375 44 570 11 13 | https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-52123b35b
 
 *P.S. I believe the best ideas come from those unafraid to be themselves. 
 Ready to bring not just skills, but also creativity, energy, and a love for life to your team!*  
