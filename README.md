@@ -26,7 +26,7 @@ The tech world is a limitless challenge and a chance to create impactful solutio
 
 *P.S. I believe the best ideas come from those unafraid to be themselves. 
 Ready to bring not just skills, but also creativity, energy, and a love for life to your team!*  
-*P.P.S. Why a samurai? Because great code requires strategy, patience, and a sharp mind ⚔️
+*P.P.S. Why a samurai? Because great code requires strategy, patience, and a sharp mind ⚔️*
 
 <!---
 EvgeniiVasileuski/EvgeniiVasileuski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
