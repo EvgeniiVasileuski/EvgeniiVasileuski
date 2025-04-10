@@ -13,7 +13,7 @@ My journey is one of constant growth, where perseverance and curiosity drive me 
   - **Dates**: 2024–2026  
   - **Focus**: Algorithms, OOP, API, Cloud Architecture, DevOps  
   - **Projects**: https://github.com/EvgeniiVasileuski/my-studies
-  - **Certificates**:   
+  - **Certificates**: https://github.com/EvgeniiVasileuski/My-training-certificates  
 - **First Degree in Economics & Auditing**  
   - **University**: Belarusian State Economic University (BSEU) 
   - **Dates**: 2011–2015    
