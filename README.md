@@ -1,4 +1,7 @@
-Hi! I’m Evgenii, a passionate IT enthusiast with a unique background spanning finance, economics, and now the world of technology. 
+<h1 align="center">Hi, I'm <a>Evgenii</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student with a unique background spanning finance, economics, and now the world of technology.</h3>
+ 
 My journey is one of constant growth, where perseverance and curiosity drive me to master new skills and discover innovative solutions.  
 
 📌 Key Competencies  
@@ -39,6 +42,13 @@ The tech world is a limitless challenge and a chance to create impactful solutio
 Ready to bring not just skills, but also creativity, energy, and a love for life to your team!*  
 *P.P.S. Why a samurai? Because great code requires strategy, patience, and a sharp mind ⚔️*
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvgeniiVasileuski&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvgeniiVasileuski&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvgeniiVasileuski&theme=solarized_dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!---
 EvgeniiVasileuski/EvgeniiVasileuski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
