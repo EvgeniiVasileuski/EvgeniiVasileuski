@@ -7,7 +7,7 @@ My journey is one of constant growth, where perseverance and curiosity drive me 
 📌 Key Competencies  
 - Adaptability & Multitasking: 15+ years in commerce, including roles as a Chief Accountant, taught me to see the big picture, manage data, and switch seamlessly between tasks. Now, I apply these skills to IT, where structure and analytical thinking are key.  
 - Business Logic + IT: My insider understanding of corporate operations fuels my drive to build tech solutions for real-world challenges — automation, analytics, or something entirely groundbreaking.  
-- Backend Development: Specializing in C#/.NET, Python/Django, C++, SQL databases, UML, DevOps. Focused on writing maintainable code, optimizing performance, and designing scalable architectures.   
+- Backend Development: Specializing in C#/.NET, Python/Django, C++, SQL databases, UML, DevOps, Git. Focused on writing maintainable code, optimizing performance, and designing scalable architectures.   
 - Learning in Depth: Diving deep into backend fundamentals — algorithms, system design, DevOps (Docker), and cloud platforms (Azure) to create solutions that last.
 - 
 🎓 Education  
